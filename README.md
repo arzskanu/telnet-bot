@@ -1,2 +1,2 @@
 # telnet-bot
-a telnet bot based on rivescript
+a telnet chat bot based on rivescript
